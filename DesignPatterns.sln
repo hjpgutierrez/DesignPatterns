@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31729.503
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factory", "Factory\Factory.csproj", "{FCECF07C-B814-4566-8B33-402903B18008}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Factory", "Factory\Factory.csproj", "{FCECF07C-B814-4566-8B33-402903B18008}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prototype", "Prototype\Prototype.csproj", "{82F0F71B-228D-4495-B603-640DC68DD485}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Prototype", "Prototype\Prototype.csproj", "{82F0F71B-228D-4495-B603-640DC68DD485}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singleton", "Singleton\Singleton.csproj", "{811CAB97-13D2-435F-9199-B1BC0C527E97}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{82F0F71B-228D-4495-B603-640DC68DD485}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{82F0F71B-228D-4495-B603-640DC68DD485}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{82F0F71B-228D-4495-B603-640DC68DD485}.Release|Any CPU.Build.0 = Release|Any CPU
+		{811CAB97-13D2-435F-9199-B1BC0C527E97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{811CAB97-13D2-435F-9199-B1BC0C527E97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{811CAB97-13D2-435F-9199-B1BC0C527E97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{811CAB97-13D2-435F-9199-B1BC0C527E97}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
